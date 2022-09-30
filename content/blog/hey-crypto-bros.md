@@ -1,8 +1,13 @@
 ---
 title: "Hey Crypto Bros"
+description: "Many perceptions that crypto investors have are dangerous, here is why."
 date: 2021-12-04T17:36:34+02:00
 draft: false
+slug: "crypto-bro"
+keywords: ["web3", "bitcoin", "ipfs"]
 tags: ["tech", "web3"]
+math: false
+toc: true
 ---
 
 Web 3; that’s the movement trying to develop a new generation of the internet beyond the platform economy with decentralization in mind and democratization in the heart. This is good, this is necessary (I might describe why in a separate article). But currently the movement is driven by the wrong people. You recognize them by their euphoria about blockchain and it’s first application: Cryptocurrencies. In the following article I want to describe why we shouldn’t listen to those people that much and why we should change our minds regarding what Web3 could be. Let’s go!
