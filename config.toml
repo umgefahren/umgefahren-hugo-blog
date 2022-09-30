@@ -12,7 +12,7 @@ description = "Personal blog of umgefahren, a student at ETH Zürich, Rust devel
 
 [params.homeInfoParams]
 
-Title = "Welcome :wave: :smiley:"
+Title = "Welcome 👋😀"
 Content = "Personal blog of umgefahren, a student at ETH Zürich, Rust developer and p2p enthusiast."
 
 [minify]
