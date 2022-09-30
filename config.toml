@@ -1,0 +1,29 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = "umgefahren's blog"
+theme = "PaperMod"
+env = "production"
+enableRobotsTXT = true
+
+[params]
+env = "production"
+title = "umgefahren's blog"
+description = "Personal blog of umgefahren, a student at ETH Zürich, Rust developer and p2p enthusiast."
+
+[params.homeInfoParams]
+
+Title = "Welcome :wave: :smiley:"
+Content = "Personal blog of umgefahren, a student at ETH Zürich, Rust developer and p2p enthusiast."
+
+[minify]
+    minifyOutput = true
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/one25fps"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/umgefahren"
+
+
