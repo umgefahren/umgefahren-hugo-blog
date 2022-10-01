@@ -21,6 +21,10 @@
   <meta name="twitter:creator" content="{{ .Site.Params.twitterCreator | default .Site.Params.twitter }}" />
   {{ end }}
 
+  {{ if isset .Site.Params "onion" }}
+  <meta http-equiv="onion-location" content="http://{{ .Site.Params.onion }}" />
+  {{ end }}
+
   {{ partial "favicon.html" }}
 
   <!-- Styles -->

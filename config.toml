@@ -12,6 +12,7 @@ description = "Personal blog of umgefahren, a student at ETH Zürich, Rust and p
 twitter = "https://twitter.com/one25fps"
 github = "https://github.com/umgefahren"
 iconOrder = ["Twitter", "GitHub"]
+onion = "qll6bajybniykhdrrzw2ewk3kt3zwt6xefoejxeuvuouym7qfeb7ydad.onion"
 
 [minify]
     minifyOutput = true
